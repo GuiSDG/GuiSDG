@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi! I'm Gui
 
-<!--
-**GuiSDG/GuiSDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <strong>Stundying:</strong> Computer Engineering<br><br>
+ <strong>Learning:</strong> Python<br><br>
+ <strong>Main tools:</strong> Pycharm, Jupyter and Visual Studio Code
+  
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiSDG&show_icons=false&theme=merko) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSDG&langs_count=5&theme=merko)](https://github.com/GuiSDG/github-readme-stats)<br>
+<img align="center" alt="Gui-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuiSDG)](https://github.com/GuiSDG/github-readme-stats)
+
+  
+
+
+
+
+
+
+
+
+
+
