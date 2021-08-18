@@ -1,7 +1,7 @@
 ## Hi there! I'm Gui<br><br>
- <strong> 📚 Stundying:</strong> Computer Engineering<br><br>
- <strong> 📖 Learning:</strong> Python<br><br>
- <strong> 🔧 Main tools:</strong> Pycharm and Jupyter
+## <strong> 📚 Stundying:</strong> Computer Engineering<br><br>
+## <strong> 📖 Learning:</strong> Python<br><br>
+## <strong> 🔧 Main tools:</strong> Pycharm and Jupyter
  
  
  
