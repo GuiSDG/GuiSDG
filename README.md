@@ -1,7 +1,8 @@
 
 ## <strong>Hi there! I'm Gui</strong><br>
-<strong> 📚 Stundying:</strong> Computer Engineering<br><br>
-<strong> 📖 Learning:</strong> Python (Automação de tarefas e Análise de dados)<br><br>
+<strong> 📚 Studying:</strong> Computer Engineering<br><br>
+<strong> 🇺🇸/🇧🇷 Languages:</strong> English/Portuguese <br><br>
+<strong> 📖 Learning:</strong> Python <br><br>
 <strong> 🔧 Main tools:</strong> Pycharm and Jupyter <br><br>
 <strong> ⚡  Fun fact:</strong> I love Linkin Park
 <p align="right">
