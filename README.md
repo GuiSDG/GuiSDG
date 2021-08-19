@@ -9,7 +9,6 @@
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/linkin-park-logo.png" width="250" alt="acessibility text">
 </p>
 
-##
 ## <strong>Stats</strong>
 
 
