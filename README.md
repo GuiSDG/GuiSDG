@@ -9,7 +9,7 @@
 </p>
 
 ## <strong>Stats</strong>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@248247e5-8417-4d8b-845c-af733896e730/055af9d8-1e9f-406d-89ec-a2cc81938187.png" width="500"/></a>
+
 
 
 
