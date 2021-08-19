@@ -5,10 +5,10 @@
 <strong> 🔧  Main tools:</strong> Pycharm and Jupyter <br><br>
 <strong> ⚡   Fun fact:</strong> I love Linkin Park
 <p align="right">
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/linkin-park-logo.png" width="250" alt="acessibility text">
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/linkin-park-logo.png" target="_blank" width="250px" style="max-width: 100%;">
 </p>
 
-## <strong>Stats</strong>
+## 
 
 
 
