@@ -1,5 +1,5 @@
 
-## <strong>Hi there! I'm Gui</strong><br>
+## <strong>Hi there! I'm Guilherme</strong><br>
 <strong> 📚  Studying:</strong> Computer Engineering<br><br>
 <strong> 🇺🇸/🇧🇷  Languages:</strong> English/Portuguese <br><br>
 <strong> 📖  Learning:</strong> Python 3.8 <br><br>
