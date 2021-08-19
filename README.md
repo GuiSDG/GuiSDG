@@ -1,4 +1,3 @@
-
 ## <strong>Hi there! I'm Guilherme</strong><br>
 <strong> 📚  Studying:</strong> Computer Engineering<br><br>
 <strong> 🇺🇸/🇧🇷  Languages:</strong> English/Portuguese <br><br>
@@ -10,6 +9,7 @@
 </p>
 
 ## <strong>Stats</strong>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@248247e5-8417-4d8b-845c-af733896e730/055af9d8-1e9f-406d-89ec-a2cc81938187.png" width="500"/></a>
 
 
 
@@ -19,6 +19,7 @@
 <img align="center" alt="Gui-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 <img align="center" alt="Gui-Jupyter" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 <img align="center" alt="Gui-Pycharm" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+
 
 
 
