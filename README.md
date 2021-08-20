@@ -1,7 +1,7 @@
 ## <strong>Hi there! I'm Guilherme</strong><br>
 <strong> 📚  Studying:</strong> Computer Engineering<br><br>
 <strong> 🇺🇸/🇧🇷  Languages:</strong> English/Portuguese <br><br>
-<strong> 📖  Learning:</strong> Python 3.8 <br><br>
+<strong> 📖  Learning:</strong> Python  <br><br>
 <strong> 🔧  Main tools:</strong> Pycharm and Jupyter <br><br>
 <strong> ⚡   Fun fact:</strong> I love Linkin Park
 <p align="right">
